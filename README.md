@@ -5,10 +5,11 @@ I currently serve as Treasurer and Webmaster for the Bee Sanctuary Movement, a M
 I am currently enrolled in the Full Stack Open programme at the University of Helsinki, a rigorous course in modern web application development using JavaScript. The curriculum covers React, Redux, Node.js, MongoDB, GraphQL, and TypeScript, with a focus on single-page applications and RESTful API design.
 This builds on earlier University of Helsinki courses I have completed: Introduction to Programming, Advanced Course in Programming, and Building AI.
 
-My current technical skills include Python and Tkinter, and I have applied these to develop Tallis Ledger — a desktop accounting application built for small charities. My goal is to extend this into a full-stack web application, to be hosted on the Bee Sanctuary Movement's server.
+My current technical skills include Python and Tkinter, and I have applied these to develop Tallis Ledger — a desktop accounting application built for small charities. I have extended this into a full-stack web application, hosted on the development server.
 
 ## Projects
 - Tallis Ledger — A Python/Tkinter accounting system designed for small charities
+- Tallis Ledger Web - A React/Express/JavaScript web accounting system for small charities.
 - Quest of the Mysteries — A text adventure written in Inform 7, published on IFDB
 - Coins'nMonsters - A simple arcade game developed using the Pygame framework
 
